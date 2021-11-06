@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "mouse zeus",
+        "price": 75,
+        "image": { "fields": { "file": { "url": "./images/mouse-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "teclado ares",
+        "price": 100,
+        "image": { "fields": { "file": { "url": "./images/teclado-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "headset hades",
+        "price": 85,
+        "image": { "fields": { "file": { "url": "./images/headset-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "mouse apolo",
+        "price": 50,
+        "image": { "fields": { "file": { "url": "./images/mouse-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "teclado poseidon",
+        "price": 150,
+        "image": { "fields": { "file": { "url": "./images/teclado-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "microfono hera",
+        "price": 115,
+        "image": { "fields": { "file": { "url": "./images/micro-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "teclado atenea",
+        "price": 65,
+        "image": { "fields": { "file": { "url": "./images/teclado-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "headset artemisa",
+        "price": 200,
+        "image": { "fields": { "file": { "url": "./images/headset-2.jpeg" } } }
+      }
+    }
+  ]
+}
